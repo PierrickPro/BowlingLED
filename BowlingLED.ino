@@ -153,6 +153,8 @@ void setAll(byte red, byte green, byte blue) {
   showStrip();
 }
 
+// Taken from FastLED library examples, DemoReel100.ino
+
 #define ARRAY_SIZE(A) (sizeof(A) / sizeof((A)[0]))
 
 void nextPattern(){
