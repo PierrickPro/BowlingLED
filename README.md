@@ -1,4 +1,6 @@
-# Arduino Bowling LED
+# Bowling LED Strips using Arduino
+
+[Project Video Demo](https://youtu.be/nXO_UD2gey4)
 
 5 bored Concordia Gina Cody students decided to play bowling in their hallway while being stuck at home in March 2020.<br/>
 2 LED strips, one on each side of the bowling alley were connected to an Arduino.
